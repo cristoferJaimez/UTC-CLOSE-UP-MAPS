@@ -1,0 +1,16 @@
+{
+    "business" : [
+        {
+            "Direccion": "Cra. 45 #114-60 a 114-90",
+            "Nombre_empresa" : "CLOSE-UP",
+            "Localidad": " USAQUEN",
+            "Barrio": "NAVARRA",
+            "Codigo_Barrio": "1641",
+            "Telefono": "000-00000",
+            "Email": "email@email.com",
+            "Sitio_Web" :"www.website.com",
+            "Latitud": "4.6987384",
+            "Longitud": "-74.0546905"
+        }
+    ]
+}
