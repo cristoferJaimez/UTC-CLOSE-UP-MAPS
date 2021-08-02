@@ -4,13 +4,11 @@ import {
   Map,
   TileLayer,
   LayersControl,
-  GeoJSON,
   LayerGroup,
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 
-//json city
-import bogota from './MarksUTC.js'
+
 
 //data point pharmaty
 import {pharmaty} from '../../../../assets/city/Bogota/pointPhamacy.json'

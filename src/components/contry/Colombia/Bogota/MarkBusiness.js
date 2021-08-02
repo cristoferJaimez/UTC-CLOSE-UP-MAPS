@@ -3,7 +3,7 @@ import { Marker, Popup } from "react-leaflet";
 import { LocalitationBusinessIcon } from "../../../IconLocalitation";
 
 export default function MarkBusiness(props) {
-  const {business} = props;
+  const { business } = props;
   const markers = business.map((pha, i) => (
     <Marker
       key={i}
@@ -49,10 +49,7 @@ export default function MarkBusiness(props) {
         </table>
       </Popup>
     </Marker>
-    
   ));
 
-  
-  
-    return  markers;
+  return markers;
 }
